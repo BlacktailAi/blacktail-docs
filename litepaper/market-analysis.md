@@ -1,3 +1,7 @@
+---
+icon: magnifying-glass-chart
+---
+
 # Market Analysis
 
 ## Market Analysis: AI Market Size <a href="#ihv636" id="ihv636"></a>

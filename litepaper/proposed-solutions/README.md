@@ -1,5 +1,6 @@
 ---
 description: Find below the Proposed Solutions Blacktail offers.
+icon: thumbs-up
 ---
 
 # Proposed Solutions

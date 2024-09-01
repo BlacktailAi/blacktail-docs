@@ -1,3 +1,8 @@
+---
+hidden: true
+icon: screen-users
+---
+
 # Team
 
 ## Team

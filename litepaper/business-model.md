@@ -1,3 +1,7 @@
+---
+icon: building
+---
+
 # Business Model
 
 ### Revenue Streams and Fee Structures <a href="#id-1opuj5n" id="id-1opuj5n"></a>
