@@ -1,5 +1,6 @@
 ---
-icon: building
+order: 50
+icon: organization
 ---
 
 # Business Model
@@ -75,8 +76,6 @@ Practical Impact: By aligning the interests of BlackTail AI with those of our mo
 &#x20;
 
 BlackTail's business model is designed to balance monetization with inclusivity, fostering a thriving community of developers and users. The diverse revenue streams and thoughtful fee structures ensure the platform's sustainability while promoting innovation and equitable access to AI resources. The revenue-sharing initiative further strengthens community ties, driving collective success and continuous platform growth.
-
-
 
 {% hint style="warning" %}
 Final figures are subject to change.

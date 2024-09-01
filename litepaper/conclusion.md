@@ -1,5 +1,6 @@
 ---
-icon: flag-checkered
+order: 30
+icon: trophy
 cover: ../.gitbook/assets/IMG_5751.JPG
 coverY: 0
 ---

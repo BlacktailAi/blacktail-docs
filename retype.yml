@@ -1,6 +1,6 @@
 input: .
 output: .retype
-url: # Add your website address here
+url: http://blacktail.ai
 branding:
   logo: static/logo-black.png
   logoDark: static/logo.png

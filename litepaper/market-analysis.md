@@ -1,5 +1,6 @@
 ---
-icon: magnifying-glass-chart
+order: 80
+icon: graph
 ---
 
 # Market Analysis

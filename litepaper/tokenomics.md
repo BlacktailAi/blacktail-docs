@@ -1,26 +1,13 @@
 ---
-icon: coin-vertical
+order: 60
+icon: zap
 cover: ../.gitbook/assets/IMG_5751.JPG
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Tokenomics
 
-### Max Supply of 100M Tokens  <a href="#id-2w5ecyt" id="id-2w5ecyt"></a>
+### Max Supply of 100M Tokens <a href="#id-2w5ecyt" id="id-2w5ecyt"></a>
 
 BlackTail AI has a fixed maximum supply of 100 million tokens. This cap ensures a controlled and predictable token economy, preventing inflation and maintaining the token's value over time.
 
@@ -30,9 +17,9 @@ The launch of BlackTail tokens will follow a stealth launch approach. In this me
 
 Token Allocation
 
-* **Team** (15%): 15 million tokens are reserved for the BlackTail AI team. This allocation is designed to incentivize and reward the team's ongoing contributions and commitment to the project.
-* **Staking** (10%): 10 million tokens are allocated for staking purposes. This staking mechanism encourages token holders to participate actively in the network, securing the platform and earning rewards in return.
-* **Liquidity** (75%): 75 million tokens are allocated to provide liquidity. This large allocation ensures that there is sufficient liquidity available on the decentralized exchange, facilitating smooth and efficient trading of the BlackTail tokens.
+- **Team** (15%): 15 million tokens are reserved for the BlackTail AI team. This allocation is designed to incentivize and reward the team's ongoing contributions and commitment to the project.
+- **Staking** (10%): 10 million tokens are allocated for staking purposes. This staking mechanism encourages token holders to participate actively in the network, securing the platform and earning rewards in return.
+- **Liquidity** (75%): 75 million tokens are allocated to provide liquidity. This large allocation ensures that there is sufficient liquidity available on the decentralized exchange, facilitating smooth and efficient trading of the BlackTail tokens.
 
 ### Revenue Sharing <a href="#id-3vac5uf" id="id-3vac5uf"></a>
 

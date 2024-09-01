@@ -1,23 +1,10 @@
 ---
+order: 100
 description: What is Blacktail.ai
-icon: circle-info
-cover: ../.gitbook/assets/IMG_5751.JPG
-coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
+icon: info
 ---
+
+![](/static/blacktail-hero.png)
 
 # Introduction
 

@@ -1,5 +1,5 @@
 ---
-label: "Blacktail Docs"
+label: "Home"
 icon: home
 ---
 
