@@ -1,6 +1,9 @@
 ---
-icon: house
+label: "Blacktail Docs"
+icon: home
 ---
+
+![](/static/blacktail-hero.png)
 
 # Home
 
