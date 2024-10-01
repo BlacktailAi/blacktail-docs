@@ -1,6 +1,6 @@
 ---
 order: 60
-icon: zap
+icon: coin-vertical
 cover: ../.gitbook/assets/IMG_5751.JPG
 coverY: 0
 ---
@@ -9,23 +9,27 @@ coverY: 0
 
 ### Max Supply of 100M Tokens <a href="#id-2w5ecyt" id="id-2w5ecyt"></a>
 
+| Max Supply  |   |   |
+| ----------- | - | - |
+| 100M Tokens |   |   |
+|             |   |   |
+|             |   |   |
+
 BlackTail AI has a fixed maximum supply of 100 million tokens. This cap ensures a controlled and predictable token economy, preventing inflation and maintaining the token's value over time.
 
 ### Launch Approach <a href="#id-1baon6m" id="id-1baon6m"></a>
 
 The launch of BlackTail tokens will follow a stealth launch approach. In this method, 100% of the tokens will be released onto the decentralized exchange (DEX) paired with approximately 2 Ethereum. The team will subsequently buy back a portion of these tokens for team allocation, staking, and liquidity purposes. This strategy aims to create a fair distribution of tokens and establish a robust liquidity foundation from the outset.
 
-Token Allocation
+### Token Allocation
 
-- **Team** (15%): 15 million tokens are reserved for the BlackTail AI team. This allocation is designed to incentivize and reward the team's ongoing contributions and commitment to the project.
-- **Staking** (10%): 10 million tokens are allocated for staking purposes. This staking mechanism encourages token holders to participate actively in the network, securing the platform and earning rewards in return.
-- **Liquidity** (75%): 75 million tokens are allocated to provide liquidity. This large allocation ensures that there is sufficient liquidity available on the decentralized exchange, facilitating smooth and efficient trading of the BlackTail tokens.
+* **Team** (15%): 15 million tokens are reserved for the BlackTail AI team. This allocation is designed to incentivize and reward the team's ongoing contributions and commitment to the project.
+* **Staking** (10%): 10 million tokens are allocated for staking purposes. This staking mechanism encourages token holders to participate actively in the network, securing the platform and earning rewards in return.
+* **Liquidity** (75%): 75 million tokens are allocated to provide liquidity. This large allocation ensures that there is sufficient liquidity available on the decentralized exchange, facilitating smooth and efficient trading of the BlackTail tokens.
 
 ### Revenue Sharing <a href="#id-3vac5uf" id="id-3vac5uf"></a>
 
-Revenue Sharing with Premium Users
-
-BlackTail AI has implemented a revenue-sharing initiative to provide financial incentives to its premium users. This model is designed to reward those who have invested in the platform through the acquisition of $BLACK tokens and active participation in the platform's services.
+Revenue Sharing with Premium Users. BlackTail AI has implemented a revenue-sharing initiative to provide financial incentives to its premium users. This model is designed to reward those who have invested in the platform through the acquisition of $BLACK tokens and active participation in the platform's services.
 
 ### Distribution <a href="#id-2afmg28" id="id-2afmg28"></a>
 
@@ -33,10 +37,13 @@ BlackTail AI has implemented a revenue-sharing initiative to provide financial i
 
 ### How It Works <a href="#pkwqa1" id="pkwqa1"></a>
 
-Direct Rewards: Premium users are entitled to a share of the platform profits. This direct financial benefit is calculated based on the proportion of net revenue the platform earns, reflecting each user's contribution to the collective success of BlackTail AI.
+* _**Direct Rewards:**_\
+  Premium users are entitled to a share of the platform profits. This direct financial benefit is calculated based on the proportion of net revenue the platform earns, reflecting each user's contribution to the collective success of BlackTail AI.\
 
-Enhanced User Experience: The revenue-sharing model encourages ongoing engagement and investment in the platform, ensuring that premium users not only enjoy advanced features but also share in the financial rewards of the platform's growth.
+* _**Enhanced User Experience:**_\
+  The revenue-sharing model encourages ongoing engagement and investment in the platform, ensuring that premium users not only enjoy advanced features but also share in the financial rewards of the platform's growth.\
 
-Community Driven: By aligning the interests of BlackTail AI with those of its most committed users, the platform fosters a strong, supportive community motivated by mutual success. This approach underpins BlackTail AI's mission to innovate and lead in the AI space while rewarding those who help make it possible.
+* _**Community Driven:**_\
+  By aligning the interests of BlackTail AI with those of its most committed users, the platform fosters a strong, supportive community motivated by mutual success. This approach underpins BlackTail AI's mission to innovate and lead in the AI space while rewarding those who help make it possible.
 
 The revenue-sharing model exemplifies BlackTail AI's dedication to transparency, community, and shared success. It is designed to recognize and reward the contributions of premium users, further solidifying the bond between BlackTail AI and its community.

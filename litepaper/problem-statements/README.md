@@ -1,35 +1,38 @@
 ---
 order: 90
-description: Find below the Problem Statements Blacktail addresses.
 icon: question
 ---
 
 # Problem Statements
 
-{% content-ref url="1-ais-tendency-towards-centralization.md" %}
-[1-ais-tendency-towards-centralization.md](1-ais-tendency-towards-centralization.md)
+{% hint style="info" %}
+Find below the Problem Statements Blacktail addresses.
+{% endhint %}
+
+{% content-ref url="1-genai-hub.md" %}
+[1-genai-hub.md](1-genai-hub.md)
 {% endcontent-ref %}
 
-{% content-ref url="2-licensing-of-ai.md" %}
-[2-licensing-of-ai.md](2-licensing-of-ai.md)
+{% content-ref url="1-genai-hub-1.md" %}
+[1-genai-hub-1.md](1-genai-hub-1.md)
 {% endcontent-ref %}
 
-{% content-ref url="3-fear-mongering-of-ai.md" %}
-[3-fear-mongering-of-ai.md](3-fear-mongering-of-ai.md)
+{% content-ref url="1-genai-hub-2.md" %}
+[1-genai-hub-2.md](1-genai-hub-2.md)
 {% endcontent-ref %}
 
-{% content-ref url="4-fragmentation-and-accessibility-of-ai-subscription-models.md" %}
-[4-fragmentation-and-accessibility-of-ai-subscription-models.md](4-fragmentation-and-accessibility-of-ai-subscription-models.md)
+{% content-ref url="1-genai-hub-3.md" %}
+[1-genai-hub-3.md](1-genai-hub-3.md)
 {% endcontent-ref %}
 
-{% content-ref url="5-cryptocurrency-payments.md" %}
-[5-cryptocurrency-payments.md](5-cryptocurrency-payments.md)
+{% content-ref url="1-genai-hub-4.md" %}
+[1-genai-hub-4.md](1-genai-hub-4.md)
 {% endcontent-ref %}
 
-{% content-ref url="6-the-lack-of-general-structures-for-training-ai.md" %}
-[6-the-lack-of-general-structures-for-training-ai.md](6-the-lack-of-general-structures-for-training-ai.md)
+{% content-ref url="1-genai-hub-5.md" %}
+[1-genai-hub-5.md](1-genai-hub-5.md)
 {% endcontent-ref %}
 
-{% content-ref url="7-the-lack-of-gpu-depin-software-platforms.md" %}
-[7-the-lack-of-gpu-depin-software-platforms.md](7-the-lack-of-gpu-depin-software-platforms.md)
+{% content-ref url="1-genai-hub-6.md" %}
+[1-genai-hub-6.md](1-genai-hub-6.md)
 {% endcontent-ref %}

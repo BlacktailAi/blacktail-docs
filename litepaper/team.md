@@ -1,6 +1,6 @@
 ---
-hidden: true
 icon: screen-users
+hidden: true
 ---
 
 # Team
@@ -41,9 +41,9 @@ Jaime Ripolles is a strategic Product Manager with a rich background in software
 
 
 
-#### Albert Slymanzki - Community Manager <a href="#id-184mhaj" id="id-184mhaj"></a>
+#### Albert Szymanski - Community Manager <a href="#id-184mhaj" id="id-184mhaj"></a>
 
-Albert Slymanzki is an experienced Web3 Community Manager, having managed NFT, Utility, and Tech projects as well as DAOs. A community managed by Albert is always a great place to be, fostering engagement and a strong sense of belonging among members.
+Albert Szymanski is an experienced Web3 Community Manager, having managed NFT, Utility, and Tech projects as well as DAOs. A community managed by Albert is always a great place to be, fostering engagement and a strong sense of belonging among members.
 
 &#x20;
 

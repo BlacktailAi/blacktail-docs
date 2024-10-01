@@ -1,20 +1,29 @@
 ---
-label: "Home"
+label: Home
 icon: home
 ---
 
-![](/static/blacktail-hero.png)
+# README
 
-# Home
+![](static/blacktail-hero.png)
 
-## Blacktail Documentation
+## 🔸 Welcome to BlackTail Ai
 
-Welcome to the BLACKTAIL AI, the pioneering Token-powered AI toolbox on the Web3.
+The pioneering Token-powered AI toolbox on the Web3.&#x20;
 
-Our mission is to revolutionize the accessibility and utility of AI tools through blockchain technology, providing an innovative platform for users and developers alike. This document outlines the key components of our project, including tokenomics, platform functionality, revenue models, and marketing strategies.
+{% hint style="info" %}
+This document outlines the key components of our project, including tokenomics, platform functionality, revenue models, and marketing strategies.
+{% endhint %}
 
-BLACKTAIL AI is set to redefine the intersection of AI and blockchain technology. By leveraging the power of blockchain, we aim to provide a seamless, efficient, and scalable platform that caters to the evolving needs of our users. Join us in this exciting journey to unlock the full potential of AI with the power of blockchain.
+### Mission
 
-For further information, updates, and discussions, please visit our official website and join our community on Twitter and Telegram.
+* BlackTail Ai mission is to revolutionize the accessibility and utility of AI tools through blockchain technology, providing an innovative platform for users and developers alike.&#x20;
+
+### Goal
+
+* BlackTail Ai is set to redefine the intersection of AI and blockchain technology. By leveraging the power of blockchain, we aim to provide a seamless, efficient, and scalable platform that caters to the evolving needs of our users. \
+
+
+For further information, updates, and discussions, please visit BlackTail official website and join community on Twitter and Telegram. Join us in this exciting journey to unlock the full potential of AI with the power of blockchain.
 
 [Website](https://blacktail.ai) | [Twitter](https://twitter.com) | [Telegram](https://telegram.com)
