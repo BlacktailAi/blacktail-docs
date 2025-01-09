@@ -65,11 +65,11 @@ Practical Impact: The revenue-sharing model encourages ongoing engagement and in
 {% endtab %}
 
 {% tab title="Community Driven" %}
-Practical Impact: By aligning the interests of BlackTail AI with those of our most committed users, we foster a strong, supportive community motivated by mutual success. This approach underpins our mission to innovate and lead in the AI space while rewarding those who help make it possible.
+Practical Impact: By aligning the interests of Blacktail AI with those of our most committed users, we foster a strong, supportive community motivated by mutual success. This approach underpins our mission to innovate and lead in the AI space while rewarding those who help make it possible.
 {% endtab %}
 {% endtabs %}
 
-BlackTail's business model is designed to balance monetization with inclusivity, fostering a thriving community of developers and users. The diverse revenue streams and thoughtful fee structures ensure the platform's sustainability while promoting innovation and equitable access to AI resources. The revenue-sharing initiative further strengthens community ties, driving collective success and continuous platform growth.
+Blacktail's business model is designed to balance monetization with inclusivity, fostering a thriving community of developers and users. The diverse revenue streams and thoughtful fee structures ensure the platform's sustainability while promoting innovation and equitable access to AI resources. The revenue-sharing initiative further strengthens community ties, driving collective success and continuous platform growth.
 
 {% hint style="warning" %}
 Final figures are subject to change.

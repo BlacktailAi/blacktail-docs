@@ -9,7 +9,7 @@ icon: magnifying-glass-chart
 
 {% tabs %}
 {% tab title="Current Market Size" %}
-As of 2023, the global AI market is estimated to be worth approximately $100 billion. The AI market is segmented into various categories, including machine learning, natural language processing, computer vision, and robotics. These segments highlight the diverse applications and widespread adoption of AI technologies across multiple industries.
+As of early 2025, the global artificial intelligence (AI) market has experienced significant growth, with estimates placing its value between $243.70 billion and $370.2 billion.
 {% endtab %}
 
 {% tab title="Growth Projections" %}

@@ -1,7 +1,7 @@
 # Table of contents
 
 * [README](README.md)
-* [litepaper](litepaper/README.md)
+* [Litepaper](litepaper/README.md)
   * [Introduction](litepaper/introduction.md)
   * [Problem Statements](litepaper/problem-statements/README.md)
     * [🔸 AI's Tendency Towards Centralization](litepaper/problem-statements/1-genai-hub.md)
@@ -15,7 +15,7 @@
     * [📙 GenAI hub](litepaper/problem-statements-1/1-genai-hub.md)
     * [📙 Market Community AI Platform](litepaper/problem-statements-1/2-market-community-ai-platform.md)
     * [📙 Open Source Blank Models](litepaper/problem-statements-1/3-open-source-blank-models.md)
-    * [📙 BlackTail's dPIN GPU System](litepaper/problem-statements-1/4-blacktails-dpin-gpu-system.md)
+    * [📙 Blacktail's dPIN GPU System](litepaper/problem-statements-1/4-blacktails-dpin-gpu-system.md)
     * [📙 Cryptocurrency Payments](litepaper/problem-statements-1/5-cryptocurrency-payments.md)
   * [Market Analysis](litepaper/market-analysis.md)
   * [Tokenomics](litepaper/tokenomics.md)
