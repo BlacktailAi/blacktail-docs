@@ -7,6 +7,8 @@ icon: road
 
 Find Blacktail's extensive roadmap below.
 
+<figure><img src="../../.gitbook/assets/Slide 9.png" alt=""><figcaption></figcaption></figure>
+
 {% hint style="info" %}
 The trends and technologies in the Web3 and AI space are rapidly evolving. While the roadmap provided serves as a guideline, it is not fixed. We will continuously adjust our plans to align with the latest developments and the needs of our community
 {% endhint %}
