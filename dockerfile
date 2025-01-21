@@ -1,4 +1,5 @@
 FROM nginx:alpine
-WORKDIR /build
-COPY . /build
-COPY /build/.docker-build/ /usr/share/nginx/html
+
+COPY .docker-build/ /usr/share/nginx/html/
+
+RUN chmod -R 755 /usr/share/nginx/html
