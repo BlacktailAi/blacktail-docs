@@ -3,6 +3,8 @@ order: 70
 icon: goal
 ---
 
+![](../static/market-analysis-banner.png)
+
 # :icon-goal: Market Analysis
 
 ## 🟠 Market Analysis: AI Market Size <a href="#ihv636" id="ihv636"></a>

@@ -3,6 +3,8 @@ order: 80
 icon: codescan-checkmark
 ---
 
+![](../../static/proposed-solutions-banner.png)
+
 # Proposed Solutions
 
 <style>

@@ -3,6 +3,8 @@ order: 60
 icon: issue-opened
 ---
 
+![](../static/black-token-banner.png)
+
 # :icon-issue-opened: Tokenomics: $BLACK Token
 
 The **$BLACK Token** is the native utility token of the Blacktail ecosystem, playing a key role in enabling transactions, incentivizing participation, and driving decentralized governance across the platform. By integrating $BLACK into its operations, Blacktail ensures a streamlined and rewarding experience for its users while fostering a sustainable and inclusive ecosystem.

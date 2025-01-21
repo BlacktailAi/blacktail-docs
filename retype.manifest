@@ -1,6 +1,6 @@
 {
   "version": "3.6.0",
-  "created": "2025-01-21T20:37:53Z",
+  "created": "2025-01-21T22:09:47Z",
   "files": [
     {
       "path": ".gitbook/assets/img_5751.jpg"
@@ -150,7 +150,16 @@
       "path": "sitemap.xml.gz"
     },
     {
+      "path": "static/black-token-banner.png"
+    },
+    {
       "path": "static/blacktail-hero.png"
+    },
+    {
+      "path": "static/business-model-banner.png"
+    },
+    {
+      "path": "static/conclusion-banner.png"
     },
     {
       "path": "static/logo-black.png"
@@ -159,7 +168,19 @@
       "path": "static/logo.png"
     },
     {
+      "path": "static/market-analysis-banner.png"
+    },
+    {
+      "path": "static/problem-statement-banner.png"
+    },
+    {
+      "path": "static/proposed-solutions-banner.png"
+    },
+    {
       "path": "static/question.svg"
+    },
+    {
+      "path": "static/roadmap.png"
     }
   ]
 }

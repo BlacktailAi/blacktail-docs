@@ -3,6 +3,8 @@ order: 50
 icon: organization
 ---
 
+![](../static/business-model-banner.png)
+
 # :icon-organization: Business Model
 
 ### 🟠 Revenue Streams and Fee Structures <a href="#id-1opuj5n" id="id-1opuj5n"></a>

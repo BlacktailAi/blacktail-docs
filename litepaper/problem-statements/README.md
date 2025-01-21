@@ -3,6 +3,8 @@ order: 90
 icon: question
 ---
 
+![](../../static/problem-statement-banner.png)
+
 # Problem Statements
 
 <style>

@@ -1,16 +1,55 @@
 ---
 order: 40
-icon: question
+icon: rocket
 ---
 
-# Roadmap
+# :icon-rocket: Roadmap
 
 Find Blacktail's extensive roadmap below.
 
-<figure><img src="../../.gitbook/assets/Slide 9.png" alt=""><figcaption></figcaption></figure>
+![](../../static/roadmap.png)
 
 {% hint style="info" %}
 The trends and technologies in the Web3 and AI space are rapidly evolving. While the roadmap provided serves as a guideline, it is not fixed. We will continuously adjust our plans to align with the latest developments and the needs of our community
 {% endhint %}
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h3>Building the MVP</h3></td><td>Phase 0</td><td><em>(Q2-Q4 2024)</em></td><td><a href="0-building-the-mvp.md">0-building-the-mvp.md</a></td></tr><tr><td><h3>Building the Foundation</h3></td><td>Phase 1</td><td><em>(</em>Q4 2024<em>)</em></td><td><a href="1-building-the-foundation.md">1-building-the-foundation.md</a></td></tr><tr><td><h3>Scaling for Growth</h3></td><td>Phase 2</td><td><em>(</em>Q1-Q2 2025<em>)</em></td><td><a href="2-scaling-for-growth.md">2-scaling-for-growth.md</a></td></tr><tr><td><h3>Embracing the Future</h3></td><td>Phase 3</td><td><em>(</em>Q3-Q4 2025<em>)</em></td><td><a href="3-embracing-the-future.md">3-embracing-the-future.md</a></td></tr><tr><td><h3>Decentralization of AI</h3></td><td>Phase 4</td><td><em>(</em>2026 and beyond<em>)</em></td><td><a href="4-decentralization-of-ai.md">4-decentralization-of-ai.md</a></td></tr></tbody></table>
+<style>
+    .link {
+        display: flex;
+        gap: 4px
+    }
+    .link > div{
+        margin-bottom: 4px;
+        width: 50%;
+        min-width: 50%;
+    }
+    .link a:hover {
+        border: 1px solid #D03376;
+        border-radius: 8px
+    }
+    .link svg {
+        color:#D03376 !important;
+    }
+    .link .inline-block {
+        display: inline-block !important;
+    }
+    .link span:first-child {
+        display: none;
+        padding: 8px
+    }
+    .link span:nth-child(2) {
+        color:#FFFFFF !important;
+    }
+</style>
+
+:::link
+[!ref icon="sparkle-fill" text="<h3>Building the MVP</h3>**_Phase 0_** <br/>**(Q2-Q4 2024)**"](/litepaper/roadmap/0-building-the-mvp.md)
+[!ref icon="browser" text="<h3>Building the Foundation</h3>**_Phase 1_** <br/>**(Q4 2024)**"](/litepaper/roadmap/1-building-the-foundation.md)
+:::
+:::link
+[!ref icon="mark-github" text="<h3>Scaling for Growth</h3>**_Phase 2_** <br/>**(Q1-Q2 2025)**"](/litepaper/roadmap/2-scaling-for-growth.md)
+[!ref icon="cpu" text="<h3>Embracing the Future</h3>**_Phase 3_** <br/>**(Q3-Q4 2025)**"](/litepaper/roadmap/3-embracing-the-future.md)
+:::
+:::link
+[!ref icon="globe" text="<h3>Decentralization of AI</h3>**_Phase 4_** <br/>**(2026 and beyond)**"](/litepaper/roadmap/4-decentralization-of-ai.md)
+:::
