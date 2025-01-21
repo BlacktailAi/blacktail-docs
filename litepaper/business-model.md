@@ -1,51 +1,37 @@
 ---
 order: 50
-icon: building
+icon: organization
 ---
 
-# Business Model
+# :icon-organization: Business Model
 
 ### 🟠 Revenue Streams and Fee Structures <a href="#id-1opuj5n" id="id-1opuj5n"></a>
 
-<details>
-
-<summary>Percentage of 3rd Party Fees</summary>
+==- **:icon-square-fill: Percentage of 3rd Party Fees**
 
 The platform will charge approximately 20% fees on the tokens purchased from current third-party AI model fees.
 
 Practical Impact: This revenue model ensures a steady income stream while maintaining competitive pricing for access to high-quality AI models from third-party developers.
 
-</details>
-
-<details>
-
-<summary>Community AI dMarket</summary>
+==- **:icon-square-fill: Community AI dMarket**
 
 The platform will charge approximately 20% fees on all tokens purchased by users from community AI models.
 
 Practical Impact: This fee structure supports the sustainability and growth of the platform by incentivizing community contributions and ensuring that developers are rewarded for their work.
 
-</details>
-
-<details>
-
-<summary>Percentage of GPU Fees</summary>
+==- **:icon-square-fill: Percentage of GPU Fees**
 
 The platform will charge approximately 20% fee on GPU compute power that is sold to community AI developers and companies.
 
 Practical Impact: By monetizing the GPU compute resources, the platform can provide affordable computational power to developers, while also generating revenue to support infrastructure and further development.
 
-</details>
-
-<details>
-
-<summary>AI Open Source Model Structures</summary>
+==- **:icon-square-fill: AI Open Source Model Structures**
 
 There will be no charge on access to the AI open source model structures. However, developers/data scientists will be required to hold a certain amount of $BLACK tokens.
 
 Practical Impact: This approach encourages the use and improvement of open source models, fostering innovation and collaboration within the community. The requirement to hold $BLACK tokens ensures commitment and investment in the platform's ecosystem.
 
-</details>
+===
 
 ### 🟠 Revenue Sharing with Premium Users <a href="#id-2250f4o" id="id-2250f4o"></a>
 

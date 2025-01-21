@@ -1,8 +1,9 @@
 ---
-icon: '2'
+order: 80
+icon: browser
 ---
 
-# 📙 Market Community AI Platform
+# :icon-browser: Market Community AI Platform
 
 ## 🟠 Proposed Solution 2: DMarket Community AI Platform <a href="#nmf14n" id="nmf14n"></a>
 

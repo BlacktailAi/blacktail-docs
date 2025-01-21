@@ -1,39 +1,23 @@
 ---
 order: 60
-icon: coin-vertical
-cover: ../.gitbook/assets/photo_2025-01-21_12-09-29.jpg
-coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
+icon: issue-opened
 ---
 
-# Tokenomics: $BLACK Token
+# :icon-issue-opened: Tokenomics: $BLACK Token
 
 The **$BLACK Token** is the native utility token of the Blacktail ecosystem, playing a key role in enabling transactions, incentivizing participation, and driving decentralized governance across the platform. By integrating $BLACK into its operations, Blacktail ensures a streamlined and rewarding experience for its users while fostering a sustainable and inclusive ecosystem.
 
-***
+---
 
 **Token Details:**
 
-* **Name**: Blacktail
-* **Symbol**: $BLACK
-* **Blockchain**: Solana (SOL)
-* **Total Supply**: 1,000,000,000 $BLACK
-* **CA: not live yet**
+- **Name**: Blacktail
+- **Symbol**: $BLACK
+- **Blockchain**: Solana (SOL)
+- **Total Supply**: 1,000,000,000 $BLACK
+- **CA: not live yet**
 
-***
+---
 
 #### Use Cases:
 
@@ -46,7 +30,7 @@ The **$BLACK Token** is the native utility token of the Blacktail ecosystem, pla
 4. **Holding and Rewards**:\
    Hold $BLACK tokens to earn additional rewards, participate in exclusive events, or gain priority access to new features and services.
 
-***
+---
 
 #### Revenue Flow:
 
@@ -65,11 +49,11 @@ Blacktail generates revenue through a **circular economy model**, ensuring value
 
 **Revenue Allocation:**
 
-* **Platform Development**: a yet to be decided % will be reinvested into improving infrastructure, expanding computational power, and adding new features.
-* **Community Rewards**: a yet to be decided % distributed among developers, contributors, and holders as rewards.
-* **Reserve Pool**: a yet to be decided% allocated for strategic initiatives, partnerships, and ensuring ecosystem stability.
+- **Platform Development**: a yet to be decided % will be reinvested into improving infrastructure, expanding computational power, and adding new features.
+- **Community Rewards**: a yet to be decided % distributed among developers, contributors, and holders as rewards.
+- **Reserve Pool**: a yet to be decided% allocated for strategic initiatives, partnerships, and ensuring ecosystem stability.
 
-***
+---
 
 #### Benefits for Token Holders:
 
@@ -82,7 +66,7 @@ Blacktail generates revenue through a **circular economy model**, ensuring value
 4. **Community-Driven Development**:\
    Influence Blacktail’s evolution by voting on key platform decisions and updates.
 
-***
+---
 
 #### Supporting Ecosystem Growth:
 
@@ -93,7 +77,7 @@ Blacktail generates revenue through a **circular economy model**, ensuring value
 3. **Scalable Token Economy**:\
    As Blacktail scales, $BLACK ensures seamless integration of features and incentives while maintaining fair value distribution across the ecosystem.
 
-***
+---
 
 #### Vision for Tokenomics:
 

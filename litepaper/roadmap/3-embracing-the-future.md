@@ -4,10 +4,10 @@
 
 ### Advanced Model Development <a href="#rjefff" id="rjefff"></a>
 
-* Inhouse Custom trained LLM model to handle complex generations using various AI tools: Develop and train a custom LLM to manage complex tasks involving multiple AI tools.\
+- Inhouse Custom trained LLM model to handle complex generations using various AI tools: Develop and train a custom LLM to manage complex tasks involving multiple AI tools.
 
-* Re-iteration and Implementation of this model in the Blacktail app: Continuously improve and integrate this model within the Blacktail app.\
+- Re-iteration and Implementation of this model in the Blacktail app: Continuously improve and integrate this model within the Blacktail app.
 
-* Collaboration Tools: shared workspaces, version control, real-time collaboration: Introduce tools for collaboration, including shared workspaces and version control.\
+- Collaboration Tools: shared workspaces, version control, real-time collaboration: Introduce tools for collaboration, including shared workspaces and version control.
 
-* “Model Of All Models” Launch: Launch the “Model Of All Models,” a comprehensive AI model incorporating various capabilities.
+- “Model Of All Models” Launch: Launch the “Model Of All Models,” a comprehensive AI model incorporating various capabilities.

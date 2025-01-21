@@ -1,8 +1,9 @@
 ---
-icon: '5'
+order: 50
+icon: globe
 ---
 
-# 📙 Cryptocurrency Payments
+# :icon-globe: Cryptocurrency Payments
 
 ## 🟠 Proposed Solution 5: Cryptocurrency Payments <a href="#id-2iq8gzs" id="id-2iq8gzs"></a>
 
@@ -10,26 +11,26 @@ Blacktail's platform will accept cryptocurrency payments for the use of all serv
 
 ### Financial Inclusion <a href="#xvir7l" id="xvir7l"></a>
 
-* _**Expanding User Base:**_\
-  By accepting cryptocurrency, Blacktail enables unbanked individuals to access AI services, expanding the potential user base and democratizing AI technology.\
+- _**Expanding User Base:**_\
+  By accepting cryptocurrency, Blacktail enables unbanked individuals to access AI services, expanding the potential user base and democratizing AI technology.
 
-* _**Practical Impact:**_\
+- _**Practical Impact:**_\
   Users in areas with limited banking infrastructure can now participate in the AI economy, utilizing advanced tools for local challenges and development. This inclusion fosters a more equitable distribution of AI resources, allowing a broader range of communities to benefit from technological advancements.
 
 ### Enhanced Privacy <a href="#id-3hv69ve" id="id-3hv69ve"></a>
 
-* _**Protecting User Privacy:**_\
-  The reduced need for personal information in cryptocurrency transactions protects user privacy, encouraging broader engagement from privacy-conscious individuals and communities.\
+- _**Protecting User Privacy:**_\
+  The reduced need for personal information in cryptocurrency transactions protects user privacy, encouraging broader engagement from privacy-conscious individuals and communities.
 
-* _**Practical Impact:**_ \
+- _**Practical Impact:**_ \
   Users who are wary of data privacy issues can confidently use Blacktail's platform, knowing their personal information is not at risk. This assurance is particularly significant in regions with stringent data privacy concerns or histories of data misuse, fostering trust and participation in AI services.
 
 ### Reduced Transaction Costs
 
-* _**Cost Efficiency:**_ \
-  The lower transaction fees associated with cryptocurrencies make AI services more affordable, allowing more users to benefit from these technologies.\
+- _**Cost Efficiency:**_ \
+  The lower transaction fees associated with cryptocurrencies make AI services more affordable, allowing more users to benefit from these technologies.
 
-* _**Practical Impact:**_ \
+- _**Practical Impact:**_ \
   Cost savings can be redirected into further development and innovation, particularly benefiting small businesses and startups. This reduction in financial barriers supports a more vibrant and competitive AI ecosystem, where diverse entities can contribute and thrive.
 
 &#x20;

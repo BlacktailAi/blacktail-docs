@@ -23,4 +23,7 @@
       :is(.dark .dark\:bg-dark-700) {
         background-color: #162042 !important;
       }
+      :is(.dark .dark\:bg-dark-650) {
+          background-color: #162042 !important;
+      }
     </style>
