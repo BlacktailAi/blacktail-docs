@@ -18,7 +18,7 @@
     * [📙 Blacktail's dPIN GPU System](litepaper/problem-statements-1/4-blacktails-dpin-gpu-system.md)
     * [📙 Cryptocurrency Payments](litepaper/problem-statements-1/5-cryptocurrency-payments.md)
   * [Market Analysis](litepaper/market-analysis.md)
-  * [Tokenomics](litepaper/tokenomics.md)
+  * [Tokenomics: $BLACK Token](litepaper/tokenomics.md)
   * [Business Model](litepaper/business-model.md)
   * [Roadmap](litepaper/roadmap/README.md)
     * [0: Building the MVP](litepaper/roadmap/0-building-the-mvp.md)
