@@ -1,8 +1,22 @@
 ---
 order: 60
 icon: coin-vertical
-cover: ../.gitbook/assets/IMG_5751.JPG
+cover: ../.gitbook/assets/photo_2025-01-21_12-09-29.jpg
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Tokenomics: $BLACK Token
