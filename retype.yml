@@ -7,6 +7,7 @@ branding:
   colors:
     label:
       text: "#ffffff"
+      background: "#14192A"
 links:
   - text: Start Building
     link: https://app.blacktail.ai/login

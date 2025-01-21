@@ -1,0 +1,165 @@
+{
+  "version": "3.6.0",
+  "created": "2025-01-21T20:37:53Z",
+  "files": [
+    {
+      "path": ".gitbook/assets/img_5751.jpg"
+    },
+    {
+      "path": ".gitbook/assets/img_5752.jpg"
+    },
+    {
+      "path": ".gitbook/assets/photo_2025-01-21_12-09-29.jpg"
+    },
+    {
+      "path": ".gitbook/assets/sin-título.png"
+    },
+    {
+      "path": ".gitbook/assets/slide-9.png"
+    },
+    {
+      "path": ".nojekyll"
+    },
+    {
+      "path": "404.html"
+    },
+    {
+      "path": "CNAME"
+    },
+    {
+      "path": "index.html"
+    },
+    {
+      "path": "litepaper/business-model/index.html"
+    },
+    {
+      "path": "litepaper/conclusion/index.html"
+    },
+    {
+      "path": "litepaper/introduction/index.html"
+    },
+    {
+      "path": "litepaper/market-analysis/index.html"
+    },
+    {
+      "path": "litepaper/problem-statements/index.html"
+    },
+    {
+      "path": "litepaper/problem-statements/problem-statements-1/index.html"
+    },
+    {
+      "path": "litepaper/problem-statements/problem-statements-2/index.html"
+    },
+    {
+      "path": "litepaper/problem-statements/problem-statements-3/index.html"
+    },
+    {
+      "path": "litepaper/problem-statements/problem-statements-4/index.html"
+    },
+    {
+      "path": "litepaper/problem-statements/problem-statements-5/index.html"
+    },
+    {
+      "path": "litepaper/problem-statements/problem-statements-6/index.html"
+    },
+    {
+      "path": "litepaper/problem-statements/problem-statements-7/index.html"
+    },
+    {
+      "path": "litepaper/proposed-solutions/1-genai-hub/index.html"
+    },
+    {
+      "path": "litepaper/proposed-solutions/2-market-community-ai-platform/index.html"
+    },
+    {
+      "path": "litepaper/proposed-solutions/3-open-source-blank-models/index.html"
+    },
+    {
+      "path": "litepaper/proposed-solutions/4-blacktails-dpin-gpu-system/index.html"
+    },
+    {
+      "path": "litepaper/proposed-solutions/5-cryptocurrency-payments/index.html"
+    },
+    {
+      "path": "litepaper/proposed-solutions/index.html"
+    },
+    {
+      "path": "litepaper/roadmap/0-building-the-mvp/index.html"
+    },
+    {
+      "path": "litepaper/roadmap/1-building-the-foundation/index.html"
+    },
+    {
+      "path": "litepaper/roadmap/2-scaling-for-growth/index.html"
+    },
+    {
+      "path": "litepaper/roadmap/3-embracing-the-future/index.html"
+    },
+    {
+      "path": "litepaper/roadmap/4-decentralization-of-ai/index.html"
+    },
+    {
+      "path": "litepaper/roadmap/index.html"
+    },
+    {
+      "path": "litepaper/team/index.html"
+    },
+    {
+      "path": "litepaper/tokenomics/index.html"
+    },
+    {
+      "path": "resources/css/retype.css"
+    },
+    {
+      "path": "resources/fonts/Inter-italic-latin-var.woff2"
+    },
+    {
+      "path": "resources/fonts/Inter-roman-latin-var.woff2"
+    },
+    {
+      "path": "resources/js/config.js"
+    },
+    {
+      "path": "resources/js/lunr.js"
+    },
+    {
+      "path": "resources/js/retype.js"
+    },
+    {
+      "path": "resources/js/search.json"
+    },
+    {
+      "path": "resources/lunr.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/mermaid.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/prism.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/retype.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/retype.LICENSE.txt"
+    },
+    {
+      "path": "robots.txt"
+    },
+    {
+      "path": "sitemap.xml.gz"
+    },
+    {
+      "path": "static/blacktail-hero.png"
+    },
+    {
+      "path": "static/logo-black.png"
+    },
+    {
+      "path": "static/logo.png"
+    },
+    {
+      "path": "static/question.svg"
+    }
+  ]
+}

@@ -5,34 +5,47 @@ icon: question
 
 # Problem Statements
 
-{% hint style="info" %}
-Find below the Problem Statements Blacktail addresses.
-{% endhint %}
+<style>
+    .link {
+        display: flex;
+        gap: 4px
+    }
+    .link > div{
+        margin-bottom: 4px;
+        width: 50%;
+        min-width: 50%;
+    }
+    .link a:hover {
+        border: 1px solid #D03376;
+        border-radius: 8px
+    }
+    .link svg {
+        color:#D03376 !important;
+    }
+    .link .inline-block {
+        display: inline-block !important;
+    }
+    .link span:first-child {
+        display: none;
+        padding: 8px
+    }
+    .link span:nth-child(2) {
+        color:#FFFFFF !important;
+    }
+</style>
 
-{% content-ref url="1-genai-hub.md" %}
-[1-genai-hub.md](1-genai-hub.md)
-{% endcontent-ref %}
-
-{% content-ref url="1-genai-hub-1.md" %}
-[1-genai-hub-1.md](1-genai-hub-1.md)
-{% endcontent-ref %}
-
-{% content-ref url="1-genai-hub-2.md" %}
-[1-genai-hub-2.md](1-genai-hub-2.md)
-{% endcontent-ref %}
-
-{% content-ref url="1-genai-hub-3.md" %}
-[1-genai-hub-3.md](1-genai-hub-3.md)
-{% endcontent-ref %}
-
-{% content-ref url="1-genai-hub-4.md" %}
-[1-genai-hub-4.md](1-genai-hub-4.md)
-{% endcontent-ref %}
-
-{% content-ref url="1-genai-hub-5.md" %}
-[1-genai-hub-5.md](1-genai-hub-5.md)
-{% endcontent-ref %}
-
-{% content-ref url="1-genai-hub-6.md" %}
-[1-genai-hub-6.md](1-genai-hub-6.md)
-{% endcontent-ref %}
+:::link
+[!ref icon="organization"](/litepaper/problem-statements/problem-statements-1.md)
+[!ref icon="tag"](/litepaper/problem-statements/problem-statements-2.md)
+:::
+:::link
+[!ref icon="copy"](/litepaper/problem-statements/problem-statements-4.md)
+[!ref icon="repo"](/litepaper/problem-statements/problem-statements-6.md)
+:::
+:::link
+[!ref icon="globe"](/litepaper/problem-statements/problem-statements-5.md)
+[!ref icon="hubot"](/litepaper/problem-statements/problem-statements-3.md)
+:::
+:::link
+[!ref icon="cpu"](/litepaper/problem-statements/problem-statements-7.md)
+:::
