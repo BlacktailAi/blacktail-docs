@@ -89,3 +89,19 @@ Blacktail integrates cryptocurrency payments into its platform, offering reduced
 </details>
 
 Blacktail is poised to revolutionize the AI landscape with a decentralized, community-driven platform that democratizes access to advanced AI technologies. By tackling the challenges of centralized AI development, financial barriers, and privacy concerns, Blacktail envisions driving rapid advancements in AI while ensuring the technology remains fair, unbiased, and accessible to all. With its innovative approach, Blacktail seeks to build an inclusive AI ecosystem that empowers developers, fuels innovation, and champions the ethical and equitable use of AI worldwide.
+
+
+
+{% tabs %}
+{% tab title="Apple" %}
+This is an apple 🍎
+{% endtab %}
+
+{% tab title="Orange" %}
+This is an orange 🍊
+{% endtab %}
+
+{% tab title="Banana" %}
+This is a banana 🍌
+{% endtab %}
+{% endtabs %}
