@@ -1,20 +1,21 @@
 FROM nginx:alpine
 
-# Remove default nginx static assets
-RUN rm -rf /usr/share/nginx/html/*
+# Create the app directory that Railway expects
+WORKDIR /app
 
-# Copy static files directly to nginx serve directory
-COPY .docker-build/ /usr/share/nginx/html/
+# Copy static files to the app directory
+COPY .docker-build/ /app/
 
 # Configure nginx
 RUN rm /etc/nginx/conf.d/default.conf
 COPY <<'EOF' /etc/nginx/conf.d/default.conf
 server {
-    # Changed from 80 to 8080 for Railway
     listen 8080;
     listen [::]:8080;
     server_name _;
-    root /usr/share/nginx/html;
+    
+    # Set root to /app where Railway expects it
+    root /app;
     index index.html;
     error_page 404 /404.html;
     
@@ -29,8 +30,8 @@ server {
 }
 EOF
 
-# Set permissions
-RUN chown -R nginx:nginx /usr/share/nginx/html && \
-    chmod -R 755 /usr/share/nginx/html
+# Set proper permissions for the app directory
+RUN chown -R nginx:nginx /app && \
+    chmod -R 755 /app
 
 CMD ["nginx", "-g", "daemon off;"]
