@@ -1,9 +1,10 @@
 ---
 label: Home
 icon: home
+meta:
+  title: "Home | Blacktail.ai Docs"
+  description: "The pioneering AI toolbox on the Web3."
 ---
-
-# README
 
 ![](static/blacktail-hero.png)
 

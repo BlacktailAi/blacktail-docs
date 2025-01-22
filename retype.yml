@@ -1,5 +1,5 @@
 input: .
-output: .retype
+output: public
 url: http://blacktail.ai
 branding:
   logo: static/logo-black.png
@@ -26,3 +26,6 @@ links:
 favicon: static/favicon.png
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
+meta:
+  title: " | Blacktail.ai Docs"
+  description: "The pioneering AI toolbox on the Web3."
