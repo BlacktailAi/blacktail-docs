@@ -23,7 +23,7 @@ This document outlines the key components of our project, including tokenomics, 
 
 - Blacktail AI is set to redefine the intersection of AI and blockchain technology. By leveraging the power of blockchain, we aim to provide a seamless, efficient, and scalable platform that caters to the evolving needs of our users.
 
-For further information, updates, and discussions, please visit Blacktail official website and join community on Twitter and Telegram. Join us in this exciting journey to unlock the full potential of AI with the power of blockchain.
+For further information, updates, and discussions, please visit Blacktail official website and join our community on Twitter and Telegram. Join us in this exciting journey to unlock the full potential of AI with the power of blockchain.
 
 <style>
     .link {
