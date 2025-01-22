@@ -5,6 +5,9 @@
       :is(.dark .dark\:bg-blue-400) {
         background-color: #d03376 !important;
       }
+      :is(.dark .dark\:border-blue-400) {
+        border-color: #d03376 !important;
+      }
       :is(.dark .dark\:hover\:text-blue-400:hover) {
         color: #d03376 !important;
       }
@@ -26,4 +29,5 @@
       :is(.dark .dark\:bg-dark-650) {
           background-color: #162042 !important;
       }
+
     </style>
