@@ -17,7 +17,7 @@ The **$BLACK Token** is the native utility token of the Blacktail ecosystem, pla
 - **Symbol**: $BLACK
 - **Blockchain**: Solana (SOL)
 - **Total Supply**: 1,000,000,000 $BLACK
-- **CA: not live yet**
+- **CA:** tABry1BGSzqx5FAP4fiWo5VYjWEthsPVvi8GJNwpump
 
 ---
 
