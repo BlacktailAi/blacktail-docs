@@ -1,6 +1,6 @@
 ---
 order: 90
-icon: sparkle-fill
+icon: '1'
 ---
 
 # :icon-sparkle-fill: GenAI hub
@@ -19,7 +19,7 @@ icon: sparkle-fill
 
 Blacktail will eventually offer a user interface that allows users to easily add various generative AI models onto a canvas and interconnect them, enabling the creation of complex, no-code workflows.
 
-- Current AI platforms often require users to subscribe to multiple services to access different AI tools, each with its own interface, subscription plan, and usage policies. This fragmentation creates significant barriers for users.
+* Current AI platforms often require users to subscribe to multiple services to access different AI tools, each with its own interface, subscription plan, and usage policies. This fragmentation creates significant barriers for users.
 
 ### Solutions Provided by Blacktail's GenAI Hub: <a href="#id-43ky6rz" id="id-43ky6rz"></a>
 
@@ -41,13 +41,13 @@ A digital artist needs tools for image generation, video editing, and music prod
 
 <summary>Cost and Financial Burden</summary>
 
-- _**Cost Efficiency:**_ \
+* _**Cost Efficiency:**_\
   A single subscription to Blacktail's platform is more economical than multiple subscriptions, reducing financial burdens on users.
 
-* _**Elimination of Duplicate Payments:**_\
+- _**Elimination of Duplicate Payments:**_\
   Users pay once for access to all AI tools, preventing redundant expenditures on similar features across different platforms.
 
-- _**Use Case:**_ \
+* _**Use Case:**_\
   A startup company that requires AI tools for customer service chatbots, data analysis, and content creation can reduce its operational costs by subscribing to Blacktail's platform, which provides all these functionalities under one roof.
 
 </details>
@@ -56,13 +56,13 @@ A digital artist needs tools for image generation, video editing, and music prod
 
 <summary>User Experience</summary>
 
-- _**Simplified Management:**_ \
+* _**Simplified Management:**_\
   Users can manage all their AI tools through a single account, reducing administrative overhead.
 
-* _**Consistent User Interface:**_\
+- _**Consistent User Interface:**_\
   A unified platform offers a consistent and intuitive user interface, enhancing user productivity and reducing the learning curve.
 
-- _**Use Case:**_ \
+* _**Use Case:**_\
   A software developer who needs AI models for coding assistance, debugging, and project management can benefit from a unified interface that streamlines the workflow and minimizes the time spent switching between different tools.
 
 </details>
@@ -71,13 +71,13 @@ A digital artist needs tools for image generation, video editing, and music prod
 
 <summary>Innovation and Development</summary>
 
-- _**Encouraging Experimentation:**_\
+* _**Encouraging Experimentation:**_\
   A unified platform encourages experimentation by providing easy access to a variety of AI tools.
 
-* _**Data Integration:**_ \
+- _**Data Integration:**_\
   The platform facilitates better data integration, allowing for more comprehensive analysis and insights.
 
-- _**Use Case:**_ \
+* _**Use Case:**_\
   A research institution can leverage Blacktail's platform to combine various AI tools for innovative projects, enhancing their research capabilities through integrated data and functionalities.
 
 </details>
@@ -86,19 +86,19 @@ A digital artist needs tools for image generation, video editing, and music prod
 
 <summary>Security and Privacy</summary>
 
-- _**Security Risks:**_ \
+* _**Security Risks:**_\
   Managing multiple accounts across different platforms increases the risk of security breaches.
 
-* _**Data Privacy Concerns:**_ \
+- _**Data Privacy Concerns:**_\
   Fragmented data across various providers can lead to inconsistent privacy protections and increased misuse risk.
 
-- _**Enhanced Security:**_ \
+* _**Enhanced Security:**_\
   A single platform reduces the number of accounts and credentials users need to manage, lowering security risks.
 
-* _**Consistent Privacy Policies:**_\
+- _**Consistent Privacy Policies:**_\
   Centralized management of user data ensures consistent privacy protections.
 
-- _**Use Case:**_ \
+* _**Use Case:**_\
   A healthcare provider can securely manage patient data while using various AI tools on Blacktail's platform, ensuring robust data privacy and reducing the risk of breaches.
 
 </details>

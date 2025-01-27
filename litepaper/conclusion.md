@@ -1,13 +1,29 @@
 ---
 order: 30
 icon: trophy
-cover: ../.gitbook/assets/IMG_5751.JPG
+cover: ../.gitbook/assets/conclusion.png
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
+
+# conclusion
 
 ![](../static/conclusion-banner.png)
 
-# Conclusion
+## Conclusion
 
 The Blacktail project represents a transformative initiative at the forefront of artificial intelligence innovation. By bringing together advanced AI tools, training capabilities, and monetization opportunities under one unified platform, Blacktail aims to democratize access to AI technologies while fostering a community-driven, inclusive, and innovative ecosystem.
 

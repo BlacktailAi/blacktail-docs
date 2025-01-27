@@ -1,27 +1,45 @@
 ---
 order: 60
-icon: issue-opened
+icon: coin-vertical
+cover: ../.gitbook/assets/photo_2025-01-21_12-09-29.jpg
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
+
+# tokenomics
 
 ![](../static/black-token-banner.png)
 
-# :icon-issue-opened: Tokenomics: $BLACK Token
+## :icon-issue-opened: Tokenomics: $BLACK Token
 
 The **$BLACK Token** is the native utility token of the Blacktail ecosystem, playing a key role in enabling transactions, incentivizing participation, and driving decentralized governance across the platform. By integrating $BLACK into its operations, Blacktail ensures a streamlined and rewarding experience for its users while fostering a sustainable and inclusive ecosystem.
 
----
+***
 
 **Token Details:**
 
-- **Name**: Blacktail
-- **Symbol**: $BLACK
-- **Blockchain**: Solana (SOL)
-- **Total Supply**: 1,000,000,000 $BLACK
-- **CA: not live yet**
+* **Name**: Blacktail
+* **Symbol**: $BLACK
+* **Blockchain**: Solana (SOL)
+* **Total Supply**: 1,000,000,000 $BLACK
+* **CA:** tABry1BGSzqx5FAP4fiWo5VYjWEthsPVvi8GJNwpump
 
----
+***
 
-#### Use Cases:
+**Use Cases:**
 
 1. **Access and Transactions**:\
    Utilize $BLACK tokens to access premium features, activate custom models, or deploy trained AI models within the Blacktail ecosystem.
@@ -32,9 +50,9 @@ The **$BLACK Token** is the native utility token of the Blacktail ecosystem, pla
 4. **Holding and Rewards**:\
    Hold $BLACK tokens to earn additional rewards, participate in exclusive events, or gain priority access to new features and services.
 
----
+***
 
-#### Revenue Flow:
+**Revenue Flow:**
 
 Blacktail generates revenue through a **circular economy model**, ensuring value is reinvested into the platform while providing consistent benefits to all stakeholders.
 
@@ -51,13 +69,13 @@ Blacktail generates revenue through a **circular economy model**, ensuring value
 
 **Revenue Allocation:**
 
-- **Platform Development**: a yet to be decided % will be reinvested into improving infrastructure, expanding computational power, and adding new features.
-- **Community Rewards**: a yet to be decided % distributed among developers, contributors, and holders as rewards.
-- **Reserve Pool**: a yet to be decided% allocated for strategic initiatives, partnerships, and ensuring ecosystem stability.
+* **Platform Development**: a yet to be decided % will be reinvested into improving infrastructure, expanding computational power, and adding new features.
+* **Community Rewards**: a yet to be decided % distributed among developers, contributors, and holders as rewards.
+* **Reserve Pool**: a yet to be decided% allocated for strategic initiatives, partnerships, and ensuring ecosystem stability.
 
----
+***
 
-#### Benefits for Token Holders:
+**Benefits for Token Holders:**
 
 1. **Passive Rewards**:\
    Earn $BLACK tokens through holding, referrals, and community participation.
@@ -68,9 +86,9 @@ Blacktail generates revenue through a **circular economy model**, ensuring value
 4. **Community-Driven Development**:\
    Influence Blacktail’s evolution by voting on key platform decisions and updates.
 
----
+***
 
-#### Supporting Ecosystem Growth:
+**Supporting Ecosystem Growth:**
 
 1. **Developer Incentives**:\
    Encourage developers to share their models and tools with built-in rewards for every transaction involving their contributions.
@@ -79,8 +97,8 @@ Blacktail generates revenue through a **circular economy model**, ensuring value
 3. **Scalable Token Economy**:\
    As Blacktail scales, $BLACK ensures seamless integration of features and incentives while maintaining fair value distribution across the ecosystem.
 
----
+***
 
-#### Vision for Tokenomics:
+**Vision for Tokenomics:**
 
 The $BLACK tokenomics model is designed to fuel a thriving, decentralized ecosystem that aligns the interests of all stakeholders, developers, users, and investors. Through sustainable rewards and governance mechanisms, $BLACK incentivizes participation while driving innovation and collaboration in the AI space.
